@@ -246,4 +246,4 @@ npm run dev -- --no-turbo
 
 ## 📞 Suporte
 
-Para questões técnicas, contate nosso time de desenvolvimento em [dev@kbm.com.br](mailto:dev@kbm.com.br).
+Para questões técnicas, contate nosso time de desenvolvimento em [wyventura@gmail.com](mailto:wyventura@gmail.com).
